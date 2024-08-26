@@ -1,7 +1,7 @@
 # GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training.
-Added [skip ci] twice!
+Added [skip ci] !!!
 
 ## 👉 Objectives
 
